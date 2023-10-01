@@ -1,0 +1,17 @@
+/*=========================================================================================
+    File Name: vxList.scss
+    Description: Styles for vx-list component. Imported in VxList.vue file
+    ----------------------------------------------------------------------------------------
+    Item Name: Ogur Uyanik Admin Dashboard
+      Author: uyanik13
+    Author URL: https://github.com/uyanik13
+==========================================================================================*/
+
+
+.list {
+    .list__item {
+        display: flex;
+        padding: .4rem;
+        align-items: flex-start;
+    }
+}
